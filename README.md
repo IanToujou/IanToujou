@@ -6,7 +6,7 @@
 
 - 🔭 I'm interested in coding, gaming, technology, anime and music!
 - 🌱 I’m currently learning Unity and game development
-- 🥅 2021 Goals: Learn Unity and make some gams with it!
+- 🥅 2021 Goals: Learn Unity and make some games with it!
 - ⚡ Fun fact: I don't have any fun facts :3
 
 ### Spotify Playing 🎧
