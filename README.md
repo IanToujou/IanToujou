@@ -38,8 +38,10 @@
 
 ---
 
-<summary>:zap: GitHub Stats</summary>
-<img align="left" alt="IanToujou's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=IanToujou&show_icons=true&hide_border=true" />
+<details>
+  <summary>:zap: GitHub Stats</summary>
+  <img align="left" alt="IanToujou's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=IanToujou&show_icons=true&hide_border=true" />
+</details>
 
 [twitter]: https://twitter.com/IanToujou
 [youtube]: https://youtube.com/c/IanToujou
