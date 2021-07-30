@@ -1,5 +1,7 @@
 ### 👋 Hello there! I'm IanToujou, but you can also call me Ian :D
 
+![owo](https://img.shields.io/badge/Bewertung%20von%20Lünü-11%2F10-brightgreen)
+
 [![Twitter Follow](https://img.shields.io/twitter/follow/IanToujou?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FIanToujou&screen_name=IanToujou)
 [![Twitch Status](https://img.shields.io/twitch/status/IanToujou?color=8F00FF&label=Twitch&logo=twitch&style=for-the-badge)](https://twitch.tv/IanToujou)
 
