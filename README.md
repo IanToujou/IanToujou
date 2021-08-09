@@ -9,10 +9,6 @@
 - 🥅 2021 Goals: Learn Unity and make some games with it!
 - ⚡ Fun fact: I don't have any fun facts :3
 
-### Spotify Playing 🎧
-
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="IanToujou Spotify Playing" width="350" />](https://open.spotify.com/user/aapuivyy3us1q4gmh9bhn7zer)
-
 ### Connect with me:
 
 [<img align="left" alt="IanToujou | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
@@ -43,6 +39,5 @@
   <img align="left" alt="IanToujou's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=IanToujou&show_icons=true&hide_border=true" />
 </details>
 
-[twitter]: https://twitter.com/IanToujou
 [youtube]: https://youtube.com/c/IanToujou
 [instagram]: https://instagram.com/IanToujou
