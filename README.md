@@ -1,6 +1,7 @@
 ### 👋 Hello there! I'm IanToujou, but you can also call me Ian :D
 
 [![Twitch Status](https://img.shields.io/twitch/status/IanToujou?color=8F00FF&label=Twitch&logo=twitch&style=for-the-badge)](https://twitch.tv/IanToujou)
+[![Discord Server](https://img.shields.io/discord/803708765265985587?color=5865F2&label=Discord&logo=discord&logoColor=white&style=for-the-badge)](https://discord.com/invite/eVCWjm38cG)
 
 ## I'm currently a student and a freetime programmer!
 
