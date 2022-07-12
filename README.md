@@ -20,7 +20,7 @@
 
 ### Languages:
 
-<img align="left" alt="Java" width="32px" src="https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png" />
+<img align="left" alt="Java" width="32px" src="https://openwhisk.apache.org/images/runtimes/icon-java-notext-color.png" />
 <img align="left" alt="Spring" width="32px" src="https://miro.medium.com/max/856/1*O68LbDvD5Dcsnez73M7v4Q.png" />
 <img align="left" alt="HTML5" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
