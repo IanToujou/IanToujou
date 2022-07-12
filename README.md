@@ -30,6 +30,10 @@
 
 ### Tools:
 
+<img align="left" alt="Toolbox" width="32px" src="https://resources.jetbrains.com/storage/products/toolbox/img/meta/toolbox_logo_300x300.png" />
+<img align="left" alt="IntelliJ" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/1200px-IntelliJ_IDEA_Icon.svg.png" />
+<img align="left" alt="PyCharm" width="32px" src="https://resources.jetbrains.com/storage/products/pycharm/img/meta/pycharm_logo_300x300.png" />
+<img align="left" alt="WebStorm" width="32px" src="https://resources.jetbrains.com/storage/products/webstorm/img/meta/webstorm_logo_300x300.png" />
 <img align="left" alt="Visual Studio Code" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="Unity" width="32px" src="https://pics.freeicons.io/uploads/icons/png/15060036801552037048-512.png" />
 <img align="left" alt="GitHub" width="32px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
