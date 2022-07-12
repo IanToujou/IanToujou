@@ -13,7 +13,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="IanToujou | YouTube" width="22px" src="https://icon-library.com/images/youtube-app-icon-transparent/youtube-app-icon-transparent-10.jpg" />][youtube]
+[<img align="left" alt="IanToujou | YouTube" width="22px" src="https://static.wikia.nocookie.net/ipod/images/e/e7/YouTube_iOS_2019.png/revision/latest?cb=20200610180756" />][youtube]
 [<img align="left" alt="IanToujou | Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png" />][instagram]
 
 <br />
