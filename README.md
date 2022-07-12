@@ -13,8 +13,8 @@
 
 ### Connect with me:
 
-[<img align="left" alt="IanToujou | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="IanToujou | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="IanToujou | YouTube" width="22px" src="https://icon-library.com/images/youtube-app-icon-transparent/youtube-app-icon-transparent-10.jpg" />][youtube]
+[<img align="left" alt="IanToujou | Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png" />][instagram]
 
 <br />
 
@@ -36,8 +36,8 @@
 <img align="left" alt="WebStorm" width="32px" src="https://resources.jetbrains.com/storage/products/webstorm/img/meta/webstorm_logo_300x300.png" />
 <img align="left" alt="Visual Studio Code" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="Unity" width="32px" src="https://pics.freeicons.io/uploads/icons/png/15060036801552037048-512.png" />
-<img align="left" alt="GitHub" width="32px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Git" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png" />
+<img align="left" alt="Figma" width="32px" src="https://uploads-ssl.webflow.com/5f1be56f92078c1d9a173232/60141f72db9c9a236cf5ddb5_icon%20figma%20vector.png" />
 
 <br />
 <br />
