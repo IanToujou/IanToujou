@@ -18,7 +18,7 @@
 
 <br />
 
-### Languages:
+### Languages & Frameworks:
 
 <img align="left" alt="Java" width="32px" src="https://openwhisk.apache.org/images/runtimes/icon-java-notext-color.png" />
 <img align="left" alt="Spring" width="32px" src="https://miro.medium.com/max/856/1*O68LbDvD5Dcsnez73M7v4Q.png" />
