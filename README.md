@@ -7,14 +7,16 @@
 ## I'm currently a student and a freetime programmer!
 
 - 🔭 I'm interested in coding, gaming, technology, anime and music!
-- 🌱 I’m currently learning Unity and game development
+- 🌱 I’m currently learning Fullstack development
 - 🥅 2022 Goals: Learn Unity and make some games with it! (Hopefully lmao)
 - ⚡ Fun fact: I don't have any fun facts :3
+- 🛠️ Favorite Toolbox: Jetbrains Toolbox
 
 ### Connect with me:
 
 [<img align="left" alt="IanToujou | YouTube" width="22px" src="https://static.wikia.nocookie.net/ipod/images/e/e7/YouTube_iOS_2019.png/revision/latest?cb=20200610180756" />][youtube]
 [<img align="left" alt="IanToujou | Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png" />][instagram]
+[<img align="left" alt="IanToujou | Discord" width="22px" src="https://cdn.iconscout.com/icon/free/png-256/discord-2752210-2285027.png" />][discord]
 
 <br />
 
@@ -36,9 +38,11 @@
 <img align="left" alt="WebStorm" width="32px" src="https://resources.jetbrains.com/storage/products/webstorm/img/meta/webstorm_logo_300x300.png" />
 <img align="left" alt="DataGrip" width="32px" src="https://resources.jetbrains.com/storage/products/datagrip/img/meta/datagrip_logo_300x300.png" />
 <img align="left" alt="Visual Studio Code" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="Unity" width="32px" src="https://pics.freeicons.io/uploads/icons/png/15060036801552037048-512.png" />
+<img align="left" alt="Unity" width="32px" src="https://www.shareicon.net/data/2015/09/24/106337_3d_512x512.png" />
 <img align="left" alt="Git" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png" />
 <img align="left" alt="Figma" width="32px" src="https://uploads-ssl.webflow.com/5f1be56f92078c1d9a173232/60141f72db9c9a236cf5ddb5_icon%20figma%20vector.png" />
+<img align="left" alt="Postman" width="32px" src="https://res.cloudinary.com/postman/image/upload/t_team_logo/v1629869194/team/2893aede23f01bfcbd2319326bc96a6ed0524eba759745ed6d73405a3a8b67a8" />
+<img align="left" alt="Electricity" width="32px" src="https://thumbs.dreamstime.com/b/lightning-bolt-thunder-lighting-strike-expertise-flat-vector-icon-apps-websites-155180397.jpg" />
 
 <br />
 <br />
@@ -52,3 +56,4 @@
 
 [youtube]: https://youtube.com/c/IanToujou
 [instagram]: https://instagram.com/IanToujou
+[discord]: https://toujoustudios.net/tearoom
