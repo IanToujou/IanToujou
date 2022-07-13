@@ -9,6 +9,7 @@
 - 🔭 I'm interested in coding, gaming, technology, anime, music and Jetbrains Toolbox
 - 🌱 I’m currently learning Fullstack development & Jetbrains Toolbox
 - 🥅 2022 Goals: Learn Jetbrains Toolbox
+- 🗿 Lifetime Goals: Become Jetbrains Toolbox
 - ⚡ Fun fact: I don't have any fun facts :3 Btw I like Jetbrains Toolbox
 - 🛠️ Favorite Toolbox: Jetbrains Toolbox
 
