@@ -42,7 +42,7 @@
 <img align="left" alt="Git" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png" />
 <img align="left" alt="Figma" width="32px" src="https://uploads-ssl.webflow.com/5f1be56f92078c1d9a173232/60141f72db9c9a236cf5ddb5_icon%20figma%20vector.png" />
 <img align="left" alt="Postman" width="32px" src="https://res.cloudinary.com/postman/image/upload/t_team_logo/v1629869194/team/2893aede23f01bfcbd2319326bc96a6ed0524eba759745ed6d73405a3a8b67a8" />
-<img align="left" alt="Electricity" width="32px" src="https://thumbs.dreamstime.com/b/lightning-bolt-thunder-lighting-strike-expertise-flat-vector-icon-apps-websites-155180397.jpg" />
+<img align="left" alt="Electricity" width="32px" src="https://cdn-icons-png.flaticon.com/512/1163/1163668.png" />
 
 <br />
 <br />
