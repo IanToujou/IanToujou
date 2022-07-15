@@ -4,14 +4,12 @@
 [![Discord Server](https://img.shields.io/discord/803708765265985587?color=5865F2&label=Discord&logo=discord&logoColor=white&style=for-the-badge)](https://discord.com/invite/eVCWjm38cG)
 [![YouTube Channel](https://img.shields.io/youtube/channel/subscribers/UCCX7tDZ1nMcvtg8pu5evu8g?color=crimson&label=YouTube&logo=Youtube&style=for-the-badge)](https://youtube.com/c/iantoujou)
 
-## I'm currently a student and a freetime JetBrains Toolbox User!
+## I'm currently a student and a freetime programmer!
 
-- 🔭 I'm interested in coding, gaming, technology, anime, music and Jetbrains Toolbox
-- 🌱 I’m currently learning Fullstack development & Jetbrains Toolbox
-- 🥅 2022 Goals: Learn Jetbrains Toolbox
-- 🗿 Lifetime Goals: Become Jetbrains Toolbox
-- ⚡ Fun fact: I don't have any fun facts :3 Btw I like Jetbrains Toolbox
-- 🛠️ Favorite Toolbox: Jetbrains Toolbox
+- 🔭 I'm interested in coding, gaming, Anime and music
+- 🌱 I’m currently learning React and Spring Boot
+- 🥅 2022 Goals: Learn Web Development
+- ⚡ Fun fact: I don't have any fun facts :3
 
 ### Connect with me:
 
