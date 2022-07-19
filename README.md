@@ -22,11 +22,13 @@
 ### Languages & Frameworks:
 
 <img align="left" alt="Java" width="32px" src="https://openwhisk.apache.org/images/runtimes/icon-java-notext-color.png" />
+<img align="left" alt="Python" width="32px" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" />
 <img align="left" alt="Spring" width="32px" src="https://miro.medium.com/max/856/1*O68LbDvD5Dcsnez73M7v4Q.png" />
-<img align="left" alt="React" width="32px" src="https://pbs.twimg.com/profile_images/446356636710363136/OYIaJ1KK_400x400.png" />
+<img align="left" alt="React" width="32px" src="https://styles.redditmedia.com/t5_2su6s/styles/communityIcon_4g1uo0kd87c61.png" />
 <img align="left" alt="HTML5" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="MySQL" width="32px" src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" />
+<img align="left" alt="Lua" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Lua-Logo.svg/1024px-Lua-Logo.svg.png" />
 
 <br />
 
@@ -40,8 +42,7 @@
 <img align="left" alt="Unity" width="32px" src="https://www.shareicon.net/data/2015/09/24/106337_3d_512x512.png" />
 <img align="left" alt="Git" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png" />
 <img align="left" alt="Figma" width="32px" src="https://uploads-ssl.webflow.com/5f1be56f92078c1d9a173232/60141f72db9c9a236cf5ddb5_icon%20figma%20vector.png" />
-<img align="left" alt="Postman" width="32px" src="https://res.cloudinary.com/postman/image/upload/t_team_logo/v1629869194/team/2893aede23f01bfcbd2319326bc96a6ed0524eba759745ed6d73405a3a8b67a8" />
-<img align="left" alt="Electricity" width="32px" src="https://cdn-icons-png.flaticon.com/512/1163/1163668.png" />
+<img align="left" alt="Insomnia" width="32px" src="https://seeklogo.com/images/I/insomnia-logo-A35E09EB19-seeklogo.com.png" />
 
 <br />
 <br />
