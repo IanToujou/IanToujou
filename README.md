@@ -1,3 +1,5 @@
+# Hey! Welcome to my Github Profile! ❤️👋
+
 ### 👋 Hello there! I'm IanToujou, but you can also call me Ian :D
 
 ![Banner](https://user-images.githubusercontent.com/44029196/179741913-9e99cdea-9fee-4aa3-9f2c-ffd9094e1315.png)
@@ -5,6 +7,8 @@
 [![Twitch Status](https://img.shields.io/twitch/status/IanToujou?color=8F00FF&label=Twitch&logo=twitch&style=for-the-badge)](https://twitch.tv/IanToujou)
 [![Discord Server](https://img.shields.io/discord/803708765265985587?color=5865F2&label=Discord&logo=discord&logoColor=white&style=for-the-badge)](https://discord.com/invite/eVCWjm38cG)
 [![YouTube Channel](https://img.shields.io/youtube/channel/subscribers/UCCX7tDZ1nMcvtg8pu5evu8g?color=crimson&label=YouTube&logo=Youtube&style=for-the-badge)](https://youtube.com/c/iantoujou)
+
+---
 
 ## I'm currently a student and a freetime programmer!
 
@@ -48,6 +52,12 @@
 
 <br />
 <br />
+
+---
+
+## Cool & Interesting Stuff
+
+![Snake](https://github.com/IanToujou/IanToujou/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
