@@ -8,6 +8,10 @@
 [![Discord Server](https://img.shields.io/discord/803708765265985587?color=5865F2&label=Discord&logo=discord&logoColor=white&style=for-the-badge)](https://discord.com/invite/eVCWjm38cG)
 [![YouTube Channel](https://img.shields.io/youtube/channel/subscribers/UCCX7tDZ1nMcvtg8pu5evu8g?color=crimson&label=YouTube&logo=Youtube&style=for-the-badge)](https://youtube.com/c/iantoujou)
 
+<p align="center">
+<img alt="Typing SVG" src="https://readme-typing-svg.herokuapp.com/?color=%23fc0356&vCenter=true&width=500&lines=W+E+L+C+O+M+E+!;Nice+to+see+you+here!;"/>
+</p>
+
 ---
 
 ## I'm currently a student and a freetime programmer!
