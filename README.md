@@ -35,6 +35,8 @@
 <img align="left" alt="React" width="32px" src="https://styles.redditmedia.com/t5_2su6s/styles/communityIcon_4g1uo0kd87c61.png" />
 <img align="left" alt="HTML5" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+<img align="left" alt="JS" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/2048px-Unofficial_JavaScript_logo_2.svg.png" />
+<img align="left" alt="TS" width="32px" src="https://www.htmlgoodies.com/wp-content/uploads/2021/08/TypeScript.png" />
 <img align="left" alt="MySQL" width="32px" src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" />
 <img align="left" alt="Lua" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Lua-Logo.svg/1024px-Lua-Logo.svg.png" />
 
