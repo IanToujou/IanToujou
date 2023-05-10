@@ -73,4 +73,4 @@
 
 [youtube]: https://youtube.com/c/IanToujou
 [instagram]: https://instagram.com/IanToujou
-[discord]: https://toujoustudios.net/tearoom
+[discord]: https://discord.gg/eVCWjm38cG
