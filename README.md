@@ -2,9 +2,6 @@
 
 ![Banner](https://user-images.githubusercontent.com/44029196/179741913-9e99cdea-9fee-4aa3-9f2c-ffd9094e1315.png)
 
-[![Twitch Status](https://img.shields.io/twitch/status/IanToujou?color=8F00FF&label=Twitch&logo=twitch&style=for-the-badge)](https://twitch.tv/IanToujou)
-[![YouTube Channel](https://img.shields.io/youtube/channel/subscribers/UCCX7tDZ1nMcvtg8pu5evu8g?color=crimson&label=YouTube&logo=Youtube&style=for-the-badge)](https://youtube.com/c/iantoujou)
-
 <p align="left">
 <img alt="Typing SVG" src="https://readme-typing-svg.herokuapp.com/?color=%2311cc0a&vCenter=true&width=500&lines=>+./welcome.sh;Nice+to+see+you!+I+hope+you+have+a+nice+day!;"/>
 </p>
@@ -17,8 +14,8 @@
 
 [<img align="left" alt="IanToujou | YouTube" width="22px" src="https://static.wikia.nocookie.net/ipod/images/e/e7/YouTube_iOS_2019.png/revision/latest?cb=20200610180756" />][youtube]
 [<img align="left" alt="IanToujou | Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png" />][instagram]
-<br/><br/>
 [<img align="left" alt="IanToujou | Discord" width="22px" src="https://cdn.iconscout.com/icon/free/png-256/discord-2752210-2285027.png" />][discord]
+<br/><br/>
 
 <br />
 
