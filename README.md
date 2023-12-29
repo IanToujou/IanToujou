@@ -11,19 +11,14 @@
 
 ---
 
-## I'm currently a student and a freetime programmer!
-
-- 🔭 I'm interested in coding, gaming, Anime and music
-- 🌱 I’m currently learning React and Spring Boot
-- 🥅 2022 Goals: Learn Web Development
-- ⚡ Fun fact: I don't have any fun facts :3
+## I'm currently a business owner and a freetime programmer!
 
 ### Connect with me:
 
 [<img align="left" alt="IanToujou | YouTube" width="22px" src="https://static.wikia.nocookie.net/ipod/images/e/e7/YouTube_iOS_2019.png/revision/latest?cb=20200610180756" />][youtube]
 [<img align="left" alt="IanToujou | Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png" />][instagram]
 <br/><br/>
-<img align="left" alt="IanToujou | Discord" width="22px" src="https://cdn.iconscout.com/icon/free/png-256/discord-2752210-2285027.png" /> iantoujou
+[<img align="left" alt="IanToujou | Discord" width="22px" src="https://cdn.iconscout.com/icon/free/png-256/discord-2752210-2285027.png" />][discord]
 
 <br />
 
@@ -69,3 +64,4 @@
 
 [youtube]: https://youtube.com/c/IanToujou
 [instagram]: https://instagram.com/IanToujou
+[discord]: https://discord.gg/VWCjBaT5QF
