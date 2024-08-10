@@ -29,7 +29,8 @@
 <img align="left" alt="Tailwind" width="48px" src="https://skillicons.dev/icons?i=tailwind" />
 <img align="left" alt="MySQL" width="48px" src="https://skillicons.dev/icons?i=mysql" />
 <img align="left" alt="Lua" width="48px" src="https://skillicons.dev/icons?i=lua" />
-<img align="left" alt="Lua" width="48px" src="https://skillicons.dev/icons?i=cs" />
+<img align="left" alt="C#" width="48px" src="https://skillicons.dev/icons?i=cs" />
+<img align="left" alt="C" width="48px" src="https://skillicons.dev/icons?i=c" />
 
 <br /><br />
 
