@@ -18,19 +18,7 @@
 
 ### Languages & Frameworks:
 
-<img align="left" alt="Java" width="48px" src="https://skillicons.dev/icons?i=java" />
-<img align="left" alt="Spring" width="48px" src="https://skillicons.dev/icons?i=spring" />
-<img align="left" alt="React" width="48px" src="https://skillicons.dev/icons?i=react" />
-<img align="left" alt="NextJS" width="48px" src="https://skillicons.dev/icons?i=nextjs" />
-<img align="left" alt="HTML5" width="48px" src="https://skillicons.dev/icons?i=html" />
-<img align="left" alt="CSS3" width="48px" src="https://skillicons.dev/icons?i=css" />
-<img align="left" alt="JS" width="48px" src="https://skillicons.dev/icons?i=js" />
-<img align="left" alt="TS" width="48px" src="https://skillicons.dev/icons?i=ts" />
-<img align="left" alt="Tailwind" width="48px" src="https://skillicons.dev/icons?i=tailwind" />
-<img align="left" alt="MySQL" width="48px" src="https://skillicons.dev/icons?i=mysql" />
-<img align="left" alt="Lua" width="48px" src="https://skillicons.dev/icons?i=lua" />
-<img align="left" alt="C#" width="48px" src="https://skillicons.dev/icons?i=cs" />
-<img align="left" alt="C" width="48px" src="https://skillicons.dev/icons?i=c" />
+<img align="left" alt="Skills" src="https://skillicons.dev/icons?i=java,spring,react,nextjs,html,css,js,ts,tailwind,mysql,lua,cs,c" />
 
 <br /><br />
 
