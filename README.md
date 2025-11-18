@@ -28,7 +28,6 @@
 <img align="left" alt="IntelliJ" width="48px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/1200px-IntelliJ_IDEA_Icon.svg.png" />
 <img align="left" alt="PyCharm" width="48px" src="https://resources.jetbrains.com/storage/products/pycharm/img/meta/pycharm_logo_300x300.png" />
 <img align="left" alt="WebStorm" width="48px" src="https://resources.jetbrains.com/storage/products/webstorm/img/meta/webstorm_logo_300x300.png" />
-<img align="left" alt="Visual Studio Code" width="48px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="Unity" width="48px" src="https://www.shareicon.net/data/2015/09/24/106337_3d_512x512.png" />
 <img align="left" alt="Git" width="48px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png" />
 <img align="left" alt="Tailwind" width="48px" src="https://skillicons.dev/icons?i=maven" />
