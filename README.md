@@ -43,6 +43,7 @@
 
 ### DevOps & Administration:
 
+<img align="left" alt="Skills" src="https://skillicons.dev/icons?i=docker" />
 <img align="left" alt="Proxmox" width="48px" src="https://media.printables.com/media/prints/543748/images/4374616_04ed4585-3662-4652-a84d-04621cb9f709/thumbs/inside/1280x960/png/proxmox.webp" />
 
 <br /><br />
