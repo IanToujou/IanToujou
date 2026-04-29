@@ -12,7 +12,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="IanToujou | Discord" width="48px" src="https://skillicons.dev/icons?i=discord" />][discord]
+[<img align="left" alt="IanToujou - Discord" width="48px" src="https://skillicons.dev/icons?i=discord" />][discord]
 
 <br /><br />
 
@@ -59,4 +59,4 @@
 
 [youtube]: https://youtube.com/c/IanToujou
 [instagram]: https://instagram.com/IanToujou
-[discord]: https://discord.gg/VWCjBaT5QF
+[discord]: https://discord.gg/42W43Qx9uw
